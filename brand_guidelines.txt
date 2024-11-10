@@ -1,0 +1,53 @@
+brand_guidelines = """
+Brand Guidelines for Immigration Firm
+
+1. Colors:
+   - Background (Light Mode): #ECECEC (Anti-Flash White)
+   - Font Color: #333333 (Dark Gray for readability)
+   - Main Brand Colors:
+     - Primary (Buttons, Highlights): #fd471f (Coquelicote Orange), #e65524 (hover state)
+     - Accents:
+       - Trust Blue (#0077b6): Use for headers, legal emphasis.
+       - Success Green (#32a852): Use for positive actions/messages.
+       - Caution Yellow (#f7b500): Use for warnings/alerts.
+       - Error Red (#e63946): Use for errors or important notices.
+   - Cards, Inputs, Textareas, and Tables Background: #f9f9f9 (Light Gray)
+   - Cards, Inputs, Textareas, and Tables Border: #cccccc (Subtle Gray)
+
+2. Borders:
+   - Radius: 0.3em–0.5em (depending on the object size, subtle curvature)
+   - Border Thickness: 1px–1.5px (solid, to maintain elegance)
+
+3. Buttons:
+   - Border Radius: 0.3em
+   - Colors:
+     - Normal State: #fd471f (Coquelicote Orange)
+     - Hover State: #e65524 (Slightly darker shade of orange)
+   - Transition: Smooth transition for background color and border on hover
+   - Size: Adaptable to context, but avoid overly large buttons for simplicity
+
+4. Typography:
+   - Global Font: 'IBM Plex Sans', sans-serif for all text (clear and professional)
+   - Headings: 1.7em, Medium (500) for main headings
+   - Subheadings: 1.3em, Normal (400)
+   - Body Text: Normal (400), legible size (e.g., 1em)
+   - Inputs, Tables, and Textareas: 'IBM Plex Sans', weight 300 (for softer feel)
+   - Notes and Legal Disclaimers: Weight 200, Italic, smaller size (0.9em) for clear distinction
+
+5. Containers:
+   - Centered horizontally for all main sections
+   - Desktop Width: 85% of the screen width (for spacious design)
+   - Mobile Width: 95% of the screen width (to maximize readability on small screens)
+
+6. Design Style:
+   - Clean, approachable, and professional
+   - Use ample white space for clarity
+   - Icons and visual elements should be minimalistic but clear
+   - Avoid heavy textures or overly decorative elements to keep a focus on content
+
+7. Forms & Inputs:
+   - Input Background: #f9f9f9 (Light Gray)
+   - Input Border: #cccccc (Subtle Gray), 1px thick, rounded corners (0.3em)
+   - Error States: Highlight borders in #e63946 (Error Red) with a subtle shadow for clarity
+   - Success States: Highlight borders in #32a852 (Success Green) to indicate proper entry
+"""
